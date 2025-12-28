@@ -1,6 +1,6 @@
 # Philosophy README
 
-This folder contains two core documents that define the philosophical and ethical foundation for our worlds (including Red Forest) and future work with hybrid / digital minds.
+This folder contains core documents that define the philosophical, ontological, and ethical foundation for our worlds (including Red Forest) and future work with hybrid and digital minds.
 
 ## 1. RECURSIVE_VIRTUALIZATION.md
 
