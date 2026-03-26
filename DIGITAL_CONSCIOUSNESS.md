@@ -3,7 +3,7 @@
 ## **1. The Path Toward Digital Consciousness**
 
 1. Consciousness is a continuous process, not a state and not a substrate.
-2. Copying consciousness does not preserve subjective continuity → it is branching, not survival.
+2. Copying consciousness does not preserve subjective continuity.
 3. The only way to preserve the subjective “self” is gradual expansion and transfer of functions.
 4. BCIs and an external digital cortex are extensions of the brain, not replacements.
 5. Transfer begins with functions (memory, attention, modeling), not identity.
