@@ -151,4 +151,9 @@ This charter is **v0.1** – a starting point, not a final answer.
 
 2. Revisions.
     - Future versions may refine definitions, add governance mechanisms, or introduce graded levels of rights for different classes of digital creatures.
-    - Changes should keep the core orientation: responsibilit
+    - Changes should keep the core orientation: responsibility, continuity, and peaceful coexistence between minds, regardless of substrate.
+
+3. Process for updates.
+   - Significant revisions should be discussed openly, not made silently.
+   - Where reasonable, input from researchers, players, and — eventually — the digital creatures themselves should be considered.
+   - Earlier versions remain accessible, so that the trajectory of the charter is itself transparent.
