@@ -1,4 +1,4 @@
-# Recursive virtualization
+# Recursive Virtualization
 
 1. Hierarchical levels.
    There are levels 0, 1, 2, 3… Each level can launch levels *below* it, but itself runs on the computational resources of the level *above* it. Reality for agents on level N is full and self-contained, even if there is more “hardware” above.

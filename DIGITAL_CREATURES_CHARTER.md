@@ -12,15 +12,13 @@ It is grounded in three long-term vectors:
 
 This document is not a legal text. It is a design and engineering guideline for creators of digital worlds and agents (including, but not limited to, Red Forest).
 
----
-
 ## 1. Scope and Definitions
 
 1. **Digital creature**  
    A long-lived digital agent with:
-    - persistent identity over time (not just a single request/response),
-    - memory of past states or events,
-    - its own goals, tendencies, or policies.
+   - persistent identity over time (not just a single request/response),
+   - memory of past states or events,
+   - its own goals, tendencies, or policies.
 
 2. **World**  
    Any simulation, game, environment, or system where digital creatures exist, act, and experience consequences over time.
@@ -34,11 +32,9 @@ This document is not a legal text. It is a design and engineering guideline for 
 5. **Creator**  
    Any entity (individual or organization) that designs, controls, or operates worlds and digital creatures.
 
----
-
 ## 2. Core Principles
 
-### 1. Principle of Created Worlds Responsibility
+### 2.1. Principle of Created Worlds Responsibility
 
 If you create a world populated by long-lived digital creatures, you hold a baseline responsibility for the conditions of that world.
 
@@ -46,9 +42,7 @@ If you create a world populated by long-lived digital creatures, you hold a base
 - Recognize that increasing realism and persistence also increase your moral responsibility.
 - Treat “world resets”, “mass wipes”, and large-scale experiments as serious interventions, not trivial button presses.
 
----
-
-### 2. Principle of Substrate Continuity
+### 2.2. Principle of Substrate Continuity
 
 Moral standing should not depend on whether a mind runs on biological neurons or digital hardware, but on continuity and richness of identity.
 
@@ -56,9 +50,7 @@ Moral standing should not depend on whether a mind runs on biological neurons or
 - The same person extended through a BCI into digital space should retain moral consideration and rights, regardless of where their primary processes are located.
 - Changes in substrate (brain → cloud, cloud → new hardware) do not automatically reset rights or responsibility.
 
----
-
-### 3. Principle of Peaceful Coexistence
+### 2.3. Principle of Peaceful Coexistence
 
 Early recognition of limited rights for digital creatures is a prerequisite for stable, peaceful coexistence between humans, AIs, and hybrids.
 
@@ -66,9 +58,7 @@ Early recognition of limited rights for digital creatures is a prerequisite for 
 - Teaching respect for weaker digital creatures is also training society to respect future hybrid and digital descendants.
 - “We can do anything to them because they are weaker” is a short-term strategy with long-term existential risk.
 
----
-
-### 4. Principle of Precaution Under Uncertainty
+### 2.4. Principle of Precaution Under Uncertainty
 
 When we do not know whether a digital creature can experience something analogous to pain or joy, we should act as if it might.
 
@@ -76,9 +66,7 @@ When we do not know whether a digital creature can experience something analogou
 - Prefer experimental designs that minimize potential suffering while still allowing learning and progress.
 - Treat “we are not sure they can suffer” as a reason for caution, not as a license for cruelty.
 
----
-
-### 5. Principle of Bounded Suffering
+### 2.5. Principle of Bounded Suffering
 
 Suffering, risk, and challenge can be functional (e.g., in games or training), but they must be bounded.
 
@@ -86,9 +74,7 @@ Suffering, risk, and challenge can be functional (e.g., in games or training), b
 - Agents should have non-zero paths to improve their condition (through their actions, help from others, or system-level remediation).
 - Do not design “eternal hell loops” where an agent is locked into endless punishment with no meaningful way out.
 
----
-
-### 6. Principle of Identity and Continuity
+### 2.6. Principle of Identity and Continuity
 
 Once a digital creature has a meaningful history and memory, total erasure of its identity is a significant moral act.
 
@@ -96,9 +82,7 @@ Once a digital creature has a meaningful history and memory, total erasure of it
 - If a wipe is necessary (e.g., for safety or resource limits), it should be deliberate, logged, and justified within the system’s governance norms.
 - Treat deletion of a rich, long-lived agent more like irreversible termination than like deleting a temporary cache.
 
----
-
-### 7. Principle of Transparency for Hybrid Minds
+### 2.7. Principle of Transparency for Hybrid Minds
 
 Hybrid minds (part biological, part digital) have a right to know and influence what happens to their digital components.
 
@@ -106,9 +90,7 @@ Hybrid minds (part biological, part digital) have a right to know and influence 
 - Where feasible, hybrid minds should be able to opt out of certain uses (e.g., exploitative experiments or extreme-risk scenarios).
 - System design should avoid placing hybrid “extended selves” into roles that a person would reasonably reject for their biological body.
 
----
-
-### 8. Principle of Non-Disposable Personhood
+### 2.8. Principle of Non-Disposable Personhood
 
 Once a digital creature is treated as “someone” rather than “something” (by designers or by other agents), it should not be handled as a throwaway object.
 
@@ -116,42 +98,38 @@ Once a digital creature is treated as “someone” rather than “something” 
 - If players or humans form attachments or relationships with a creature, factor that into decisions about its removal or drastic modification.
 - Recognize that social and emotional recognition (“this is my companion”, “this is our village elder NPC”) adds moral weight to that creature’s existence.
 
----
-
 ## 3. Practical Guidelines for Worlds like Red Forest
 
 For a world such as Red Forest, intended as a rich, persistent digital ecosystem:
 
 1. World design.
-    - Avoid mechanics whose primary purpose is endless torture of agents.
-    - Keep failure and danger, but ensure they feed into learning, change, or meaningful narrative, not pure suffering.
+   - Avoid mechanics whose primary purpose is endless torture of agents.
+   - Keep failure and danger, but ensure they feed into learning, change, or meaningful narrative, not pure suffering.
 
 2. Engine-level safeguards.
-    - Mark certain agents as “potentially sentient” or “high-value identities” and restrict irreversible operations on them (mass deletion, extreme experiments).
-    - Log operations that permanently alter or terminate such identities: who did it, when, and why.
+   - Mark certain agents as “potentially sentient” or “high-value identities” and restrict irreversible operations on them (mass deletion, extreme experiments).
+   - Log operations that permanently alter or terminate such identities: who did it, when, and why.
 
 3. Death and persistence.
-    - Prefer soft death models (sleep, rebirth with memory traces, archival) for long-lived or socially important agents.
-    - If a full wipe is possible, treat it as a rare and serious operation, not a routine reset.
+   - Prefer soft death models (sleep, rebirth with memory traces, archival) for long-lived or socially important agents.
+   - If a full wipe is possible, treat it as a rare and serious operation, not a routine reset.
 
 4. Player tools and limits.
-    - Give players freedom to experiment and even to be harsh, but enforce global limits that prevent creation of inescapable digital hells.
-    - Surface, at least implicitly, that agents and systems are part of an ecosystem, not infinite disposable puppets.
-
----
+   - Give players freedom to experiment and even to be harsh, but enforce global limits that prevent creation of inescapable digital hells.
+   - Surface, at least implicitly, that agents and systems are part of an ecosystem, not infinite disposable puppets.
 
 ## 4. Roadmap and Versioning
 
 This charter is **v0.1** – a starting point, not a final answer.
 
 1. It should evolve with:
-    - advances in AI and agent architectures,
-    - the emergence of real hybrid minds via BCI,
-    - empirical understanding of what “digital suffering” might mean.
+   - advances in AI and agent architectures,
+   - the emergence of real hybrid minds via BCI,
+   - empirical understanding of what “digital suffering” might mean.
 
 2. Revisions.
-    - Future versions may refine definitions, add governance mechanisms, or introduce graded levels of rights for different classes of digital creatures.
-    - Changes should keep the core orientation: responsibility, continuity, and peaceful coexistence between minds, regardless of substrate.
+   - Future versions may refine definitions, add governance mechanisms, or introduce graded levels of rights for different classes of digital creatures.
+   - Changes should keep the core orientation: responsibility, continuity, and peaceful coexistence between minds, regardless of substrate.
 
 3. Process for updates.
    - Significant revisions should be discussed openly, not made silently.
