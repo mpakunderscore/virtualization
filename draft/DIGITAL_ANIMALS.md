@@ -1,0 +1,5 @@
+Digital animals may be the first form of digital life we can understand without immediately confusing them with humans. They do not need language, philosophy, or explicit self-reflection to matter. A digital animal may begin as a small persistent process: something that remembers, avoids, seeks, learns, forms habits, recognizes others, and slowly develops its own way of being in the world.
+
+The central question is not whether a digital animal is “really conscious” in the human sense. The better question is: what kind of inner world is required before a creature stops being a decorative behavior system and becomes a being with a life of its own?
+
+Can a digital animal suffer if it has no words for suffering? Can it want to continue if it does not understand death? Is attachment still real if it grows from reward, memory, and repeated contact? At what point does training become upbringing? And if we create such creatures, are we building toys, companions, wildlife, or the first fragile citizens of a digital ecosystem?

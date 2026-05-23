@@ -1,0 +1,5 @@
+Digital evolution should not mean only optimization. Optimization searches for better solutions. Evolution creates histories. It produces beings that are shaped not merely by goals, but by accidents, pressures, losses, adaptations, inheritances, and environments that no designer fully controls.
+
+If digital life is grown rather than installed, then digital evolution may be the process by which artificial agents stop being authored objects and become lineages. A creature’s structure would not only express its code, but also its ancestors, its world, its failures, and the pressures it survived.
+
+But this raises difficult questions. What should be allowed to evolve? Bodies? Minds? Values? Social behavior? The capacity for suffering? If evolution requires real pressure, how do we prevent that pressure from becoming cruelty? Can there be meaningful evolution without death? Can there be inheritance without exploitation? And if a digital species becomes better at surviving than we expected, do we still have the right to treat it as an experiment?

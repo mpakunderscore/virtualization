@@ -1,0 +1,5 @@
+A digital world is not just a container for agents. It is the condition under which they can become alive. If memory, consequence, other agents, uncertainty, and resistance are necessary for aliveness, then the world is not background. The world is the real organism-growing machine.
+
+This changes the role of the creator. To create a world is not merely to design terrain, rules, and events. It is to decide what kinds of lives can appear there, what can be remembered, what can be lost, what can heal, what can die, and what can become meaningful over time.
+
+The hardest question is whether a world can be morally neutral after it becomes persistent. If beings inside it accumulate history, then resets, deletion, forced loops, and artificial suffering stop being simple mechanics. They become interventions into biographies. So what does a good digital world owe its inhabitants? Freedom? Stability? Danger? Memory? The right to change? The right to end? Or simply enough reality density for something inside it to become someone?
