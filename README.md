@@ -85,7 +85,7 @@ Sketches at varying maturity.
   incompleteness, not a "seek novelty" directive.
 - **DIGITAL_ANIMALS.md** — The digital animal as the first form of digital life we
   might understand without confusing it with a human.
-- **DIGITAL_LDA.md** — The *Living Digital Agent*, the central object of the whole
+- **LDA.md** — The *Living Digital Agent*, the central object of the whole
   corpus, currently a placeholder. To be either written out as its own document or
   folded into `DIGITAL_ALIVENESS`.
 
