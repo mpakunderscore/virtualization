@@ -1,6 +1,6 @@
-# Foundations
+# Framework
 
-This repository holds the philosophical, ontological, and ethical foundation for
+This repository holds the philosophical, ontological, and ethical framework for
 persistent worlds populated by autonomous digital agents — Red Forest among them —
 and for futures in which minds extend into, or originate in, digital substrates.
 
